@@ -1,0 +1,9 @@
+transaction_id,amount,hour,transactions_last_1h,new_payee,device_changed,location_changed,failed_upi_attempts,beneficiary_age_days,amount_vs_avg_ratio
+UPI001,15000,22,6,Yes,Yes,No,3,1,5.0
+UPI002,450,13,1,No,No,No,0,180,0.8
+UPI003,28000,2,8,Yes,Yes,Yes,4,0,6.5
+UPI004,1200,10,2,No,No,No,0,90,1.1
+UPI005,9000,23,5,Yes,No,Yes,2,1,4.2
+UPI006,650,15,1,No,No,No,0,240,0.9
+UPI007,18000,1,7,Yes,Yes,Yes,3,0,5.8
+UPI008,2200,12,2,No,No,No,0,120,1.2
